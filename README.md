@@ -1,76 +1,75 @@
-<p align ="center">
-<br><img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280px"><br>  
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="280px">
+  <br>
 </p>
 
-<h1 align="center">Hi 👋, I'm Chanda sinha</h1>
-<h3 align="center">I'm Third year Engineering Students !!!</h3>
+<h1 align="center">Hi 👋, I'm Chanda Sinha</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
+---
 
-## About Me
+## 📊 About Me
 
+- 🔭 Currently working on: **Covid-19 Data Analysis (SQL & Power BI)**
+- 🌱 Learning: **Advanced SQL, Power BI, Python for Data Analysis**
+- 📊 Interested in: **Data Cleaning, Visualization, and Dashboard Creation**
+- 🤝 Open to collaborating on: **Data Analysis & Visualization Projects**
+- 💬 Ask me about: **SQL Queries, Data Visualization, Excel Dashboards**
+- 📫 Reach me at: **chandaint2210@gmail.com**
 
-- 🔭 I’m currently working on **College connect**
+---
 
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **OpenSource Project**
-
-- 🤝 I’m looking for help with **My portfolio Website**
-
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **chandaint2210@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chanda-sinha-979b11256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chanda-sinha-979b11256/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/chandasinha811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chandasinha811/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chanda-sinha-979b11256/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/chandasinha811/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>
+<a href="https://discord.com/channels/@me" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-
-<!--
-**chandasinha22/chandasinha22** is a ✨ _special_ ✨ repo<h1 align="center">Hi 👋, I'm Chanda sinha</h1>
-<h3 align="center">I'm Third year Engineering Students !!!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandasinha22&label=Profile%20views&color=0e75b6&style=flat" alt="chandasinha22" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandasinha22" alt="chandasinha22" /></a> </p>
-
-- 🔭 I’m currently working on **College connect**
-
-- 🌱 I’m currently learning **React**
-
-- 👯 I’m looking to collaborate on **OpenSource Project**
-
-- 🤝 I’m looking for help with **My portfolio Website**
-
-- 💬 Ask me about **DSA**
-
-- 📫 How to reach me **chandaint2210@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Skills & Tools
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chanda-sinha-979b11256/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chanda-sinha-979b11256/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/chandasinha811/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/chandasinha811/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="excel" width="40" height="40"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-sitory because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📂 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Covid-19 Global Impact & Vaccination Analysis](#)** – SQL-based analysis of Covid cases, deaths, and vaccination rates.
+- **[Sales Forecasting Dashboard](#)** – Tableau dashboard predicting future sales trends.
+- **[Financial Consumer Complaints Analysis](#)** – Data cleaning & visualization with Power BI.
+- **[Hospital Treatment Cost Optimization](#)** – Power BI analysis to optimize treatment costs.
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandasinha22&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+⭐ **“Data tells a story — I make it worth reading.”**
